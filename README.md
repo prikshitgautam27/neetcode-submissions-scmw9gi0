@@ -1,11 +1,11 @@
-# 🚀 Advanced DSA, Algorithms & System Design Repository  
+#  Advanced DSA, Algorithms & System Design Repository  
 ### Curated, Engineered, and Continuously Evolved by **Prikshit Gautam**
 
 > This repository is more than a collection of coding solutions — it is a long‑term engineering journal, a reflection of disciplined problem‑solving, and a testament to my commitment to mastering the fundamentals that power real‑world machine learning, systems engineering, and product‑grade software.
 
 ---
 
-## 🌟 Vision Behind This Repository
+##  Vision Behind This Repository
 
 As a **Machine Learning Engineer** working across NLP, LLMs, RAG systems, Computer Vision, and scalable backend logic, I’ve learned that strong fundamentals in **Data Structures, Algorithms, and System Design** are not optional — they are the backbone of every performant, reliable, and production‑ready system.
 
@@ -21,7 +21,7 @@ Every solution here is written, refined, and optimized by me — with the same r
 
 ---
 
-## 🔄 Automated Sync — Always Up to Date
+##  Automated Sync — Always Up to Date
 
 This repository stays continuously updated through an automated sync pipeline connected to my coding practice platform.
 
@@ -37,28 +37,28 @@ The automation handles the logistics —
 
 ---
 
-## 🧭 Repository Philosophy
+##  Repository Philosophy
 
 This repository is intentionally designed to feel like:
 
-### **🧠 A personal engineering notebook**  
+### ** A personal engineering notebook**  
 Not a dump of solutions, but a curated, structured, and thoughtful archive.
 
-### **📚 A study companion**  
+### ** A study companion**  
 Each folder and submission is organized to make revisiting concepts effortless.
 
-### **🔍 A transparency log**  
+### ** A transparency log**  
 You can see how my solutions evolve — from brute force to optimal.
 
-### **⚙️ A reflection of real engineering practice**  
+### ** A reflection of real engineering practice**  
 Readable code, meaningful naming, comments where necessary, and iterative refinement.
 
-### **📈 A growth timeline**  
+### ** A growth timeline**  
 Every commit is a snapshot of my progress as an engineer.
 
 ---
 
-## 📁 Repository Structure (Deep Explanation)
+##  Repository Structure (Deep Explanation)
 
 Solutions are organized by:
 
